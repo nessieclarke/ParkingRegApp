@@ -1,2 +1,2 @@
-# carRegApp
-our 3tier project
+# ParkingRegApp
+our 3 tier project
