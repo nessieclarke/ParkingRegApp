@@ -1,0 +1,39 @@
+/*
+car reg : wk57 ...
+id: 226
+owner: ness clarke
+make: honda
+model: jazz
+colour: blue
+contact number: 07000 000000
+email: ness@oooooo.com
+
+car reg :  xx56 ...
+id: ...
+owner: vanessa Tsang
+make: honda
+model: jazz
+colour: red
+contact number: 07000 000000
+email: tsang@oooooo.com
+*/
+
+{
+  "login": "nessieclarke",
+  "id": 26820864,
+  "node_id": "MDQ6VXNlcjI2ODIwODY0",//-----?
+  "type": "User",
+  "site_admin": false,
+  "name": "Vanessa Clarke",
+  "company": "WICA",
+  "car reg": "WK57 ...",
+  "make": "Honda",
+  "model": "Jazz",
+  "colour": "blue",
+  "allocated space": ["OVO","RAY"],
+  "email": "nessieclarke@yahoo.co.uk",
+  "phone": "07871000000",
+  "created_at": "2019-10-15T15:24:51Z",
+  "updated_at": "2019-10-15T16:57:26Z"
+
+}
